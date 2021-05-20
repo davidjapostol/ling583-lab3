@@ -1,0 +1,240 @@
+development set
+machine translation system
+sentence length
+encoder - decoder
+first - order
+time step
+multi - document summarization
+head word
+sentiment analysis
+learning algorithm
+word similarity
+beam search
+target - side
+machine learning
+generative model
+training set
+source sentence
+sentence level
+stochastic gradient descent
+translation model
+noun phrase
+finite - state
+baseline model
+text generation
+syntactic information
+inter - annotator agreement
+maximum likelihood
+language model
+part - of - speech
+high - quality
+morphological analysis
+semantic role
+word order
+coreference resolution
+sentence pair
+relation extraction
+word sequence
+supervised learning
+semantic information
+local context
+conditional probability
+context - free grammar
+pre - trained word
+natural language
+neural machine translation
+semantic representation
+beam size
+human evaluation
+high - level
+lexical information
+sub -
+feature set
+co - occurrence
+source language
+training time
+target side
+gram language model
+probabilistic model
+dynamic programming
+sub - word
+real - time
+context information
+window size
+phrase table
+state - of - theart
+test corpus
+future work
+amount of training
+word - level
+self - training
+dialog system
+target language
+attention mechanism
+loss function
+gold - standard
+knowledge base
+part of speech
+source - side
+edit distance
+self - attention
+recurrent neural network
+feed - forward
+feature space
+context vector
+test set
+semantic parsing
+f - score
+tree - to - string
+average number
+related work
+target word
+dependency relation
+chinese word segmentation
+distant supervision
+speech recognition
+low - resource
+predicate - argument
+skip - gram
+root node
+logical form
+language modeling
+ground truth
+active learning
+weight vector
+objective function
+i t
+prior work
+open - domain
+input sentence
+vocabulary size
+automatic evaluation
+validation set
+text classification
+- fold cross validation
+statistical machine translation
+phrase structure
+scoring function
+dependency parser
+hyper - parameter
+machine translation
+token - level
+same sentence
+feature selection
+syntactic structure
+natural language generation
+classification task
+source word
+reinforcement learning
+second - order
+previous work
+discourse structure
+domain adaptation
+phrase pair
+gold standard
+neural network
+cross -
+joint model
+number of training
+english word
+decision tree
+semantic role labeling
+f - measure
+long - distance
+large corpus
+art performance
+ground - truth
+source domain
+parse tree
+cosine similarity
+gram model
+right - hand side
+feature vector
+_ b
+logistic regression
+translation quality
+error analysis
+time complexity
+previous section
+t - test
+high quality
+part - of - speech tagging
+hidden state
+state - ofthe - art
+word level
+prior knowledge
+question - answer
+batch size
+single word
+target domain
+correct answer
+learning rate
+dependency parsing
+sentiment classification
+topic model
+tree structure
+hidden layer
+word alignment
+word pair
+sequence labeling
+h t
+parallel corpus
+vector space
+document - level
+multi - task learning
+test time
+log - linear model
+natural language processing
+distributional similarity
+tree kernel
+error rate
+entity recognition
+word sense
+dialog act
+n - gram
+high precision
+language pair
+end - to - end
+classification problem
+similarity measure
+word segmentation
+deep learning
+baseline system
+word - to - word
+character - level
+data set
+mutual information
+significant improvement
+sequence - to - sequence
+log - likelihood
+target sentence
+maximum entropy
+input sequence
+semantic similarity
+search space
+dependency tree
+word sense disambiguation
+english translation
+probability distribution
+- fold cross - validation
+f1 - score
+language understanding
+information retrieval
+contextual information
+sentence - level
+overall performance
+recent work
+dependency structure
+training corpus
+information extraction
+small set
+trade - off
+search engine
+binary classification
+set of candidate
+evaluation metric
+linguistic knowledge
+vector representation
+% accuracy
+low - level
+semi - supervised learning
